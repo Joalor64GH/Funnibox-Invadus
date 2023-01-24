@@ -1,6 +1,6 @@
 /* 0.5.4 2021-12-04 18:40:10 */
 var app = new function() {
-    this.name = "Invadus", this.version = "1", this.date = "2022", this.folder = "asset-v1/", this.looptime = 6857, this.bpm = 140, this.totalframe = 324, this.nbpolo = 20, this.nbloopbonus = 6, this.bonusloopA = !0, this.bonusendloopA = !1, this.recmaxloop = 27, this.recminloop = 4, this.recmintime = Math.round(this.looptime / 1e3) * this.recminloop, this.spritepolo = "polo-sprite.png", this.spritepicto = "game-picto.png", this.colBck = "#506884", this.col0 = "#42566D", this.col1 = "#506884", this.col2 = "#506884", this.col3 = "#506884", this.col4 = "#506884", this.animearray = [{
+    this.name = "Invadus", this.version = "1", this.date = "2022", this.folder = "asset-v1/", this.looptime = 6857, this.bpm = 140, this.totalframe = 324, this.nbpolo = 7, this.nbloopbonus = 6, this.bonusloopA = !0, this.bonusendloopA = !1, this.recmaxloop = 27, this.recminloop = 4, this.recmintime = Math.round(this.looptime / 1e3) * this.recminloop, this.spritepolo = "polo-sprite.png", this.spritepicto = "game-picto.png", this.colBck = "#506884", this.col0 = "#42566D", this.col1 = "#506884", this.col2 = "#506884", this.col3 = "#506884", this.col4 = "#506884", this.animearray = [{
         name: "1_tomtom",
         color: "506884",
         uniqsnd: !0
